@@ -1,4 +1,6 @@
-Hi! I'm an AI engineer & Kaggle Master focusing on eval-driven AI agents.
+# Hi, I'm Octavi 👋
+
+I'm an AI engineer & Kaggle Master focusing on eval-driven AI agents.
 
 Some things I've written:
 
